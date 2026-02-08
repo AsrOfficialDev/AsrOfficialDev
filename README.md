@@ -13,16 +13,12 @@
 
   <br/>
 
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AsrOfficialDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsrOfficialDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsrOfficialDev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsrOfficialDev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=6" />
+  </a>
+
+  <br/>
 
   <img src="https://github.com/AsrOfficialDev/AsrOfficialDev/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
