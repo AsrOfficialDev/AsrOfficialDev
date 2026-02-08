@@ -13,13 +13,17 @@
 
   <br/>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsrOfficialDev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsrOfficialDev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=6" />
-  </a>
+  <p>
+    <img src="https://raw.githubusercontent.com/AsrOfficialDev/AsrOfficialDev/main/profile-summary-card-output/solarized_dark/0-profile-details.svg" alt="Profile Details" />
+  </p>
+  
+  <p>
+    <img src="https://raw.githubusercontent.com/AsrOfficialDev/AsrOfficialDev/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Top Languages" />
+    <img src="https://raw.githubusercontent.com/AsrOfficialDev/AsrOfficialDev/main/profile-summary-card-output/solarized_dark/3-stats.svg" alt="Stats" />
+  </p>
 
   <br/>
 
-  <img src="https://github.com/AsrOfficialDev/AsrOfficialDev/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/AsrOfficialDev/AsrOfficialDev/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 </div>
