@@ -1,6 +1,8 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi,+I'm+AsrOfficialDev;Building+Modern+Mobile+Apps;Flutter+%7C+Kotlin+%7C+Java" alt="Typing SVG" />
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&size=45&pause=1000&color=F85B1A&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+AsrOfficialDev;Building+Modern+Mobile+Apps;Flutter+%7C+Kotlin+%7C+Java" alt="Dragon Ball Z Style" />
+</div>
 
   <br/>
 
